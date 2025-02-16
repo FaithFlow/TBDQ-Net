@@ -12,9 +12,7 @@ TBDQ-Net achieves end-to-end multi-object tracking in a decoupled framework, acq
 
 ---
 
-# Effect Demonstrations
-
-Below are the visual demonstrations of the framework’s performance in various scenarios.
+# Demos
 
 ### Demonstration 1: [DanceTrack]
 ![Effect 1](./assets/dance.gif)
