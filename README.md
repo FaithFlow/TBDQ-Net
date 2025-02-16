@@ -4,15 +4,10 @@
 
 # Framework Overview
 
-![Framework Diagram]<img src="./assets/framework.png" width="600"/>
+![Framework Diagram]<img src="./assets/framework.png" width="1000"/>
 *Figure 1: Overview of TBDQ-Net.*
 
-TBDQ-Net achieves end-to-end multi-object tracking in a decoupled framework, acquiring strong association capabilities with higher efficiency during both training and inference processes.
-
-
-![Effect 1](./assets/dance.gif)
-![Effect 2](./assets/sports-compressed.gif)
-![Effect 3](./assets/mot20_compressed.gif)
+TBDQ-Net achieves end-to-end multi-object tracking in a decoupled framework, acquiring strong association capabilities with higher efficiency in both training and inference processes.
 
 ---
 
