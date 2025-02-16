@@ -18,6 +18,7 @@ TBDQ-Net achieves end-to-end multi-object tracking in a decoupled framework, acq
 ![Effect 1](./assets/dance.gif)
 
 ### Demonstration 2: [SportsMOT]
+
 ![Effect 2](./assets/sports-compressed.gif)
 
 ### Demonstration 3: [MOT20]
