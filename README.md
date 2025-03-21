@@ -1,6 +1,6 @@
 # TBDQ-Net
 
-
+This is the implementation of TBDQ-Net. The code is scheduled to be released.
 
 # Framework Overview
 
@@ -21,10 +21,4 @@ TBDQ-Net achieves end-to-end multi-object tracking in a decoupled framework, acq
 
 ### MOT20: 
 <img src="./assets/mot20_compressed.gif" width="600"/>
-
-
----
-
-
-The code is scheduled to be open-sourced.
 
