@@ -1,0 +1,31 @@
+--meta_arch motr_batch_dab_yolox
+--dataset_file e2e_dance
+--epoch 12
+--with_box_refine
+--lr_drop 6 10
+--lr 1.2e-4
+--lr_backbone 2e-5
+--pretrained /root/autodl-tmp/pretrained/DAB-DETR-R50-DC5-3P-checkpoint.pth
+--batch_size 1
+--sample_mode random_interval
+--sample_interval 10
+--sampler_lengths 5
+--merger_dropout 0
+--dropout 0
+--random_drop 0.1
+--fp_ratio 0.2
+--query_interaction_layer INTERACTION_DECOUPLE_PURE
+--num_queries 300
+--dim_feedforward 2048
+--use_checkpoint
+--mot_path /root/autodl-tmp/
+--match_type match
+--g_size 1
+--enc_layers 3
+--dec_layers 2
+--training_set Full
+--miss_tolerance 20
+--score_threshold 0.5
+--det_nms 0.8
+--qualified_threshold 0.3
+--seed 2024
