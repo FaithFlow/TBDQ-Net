@@ -1,5 +1,5 @@
 # TBDQ-Net
-<img src="./images/framework.svg" width="1000"/>
+<img src="./images/framework.png" width="1000"/>
 
 TBDQ-Net is a unified framework that integrates a frozen, pre-trained detector with a lightweight, learnable associator. It could achieve the high efficiency of decoupled architectures while maintaining the strong end-to-end tracking capability.
 
